@@ -5,7 +5,7 @@ e obtenham respostas por meio da comunidade participante;  Projeto disponível e
 
 ## Tecnologias
 
-- React
+- React.js
 - TypeScript
 - Firebase ( Authentication, Realtime Database)
 
